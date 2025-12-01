@@ -1,4 +1,4 @@
-# ecu3
+# mi_receta
 
 A new Flutter project.
 
